@@ -6,7 +6,6 @@ body{
    min-height: 100vh;
     margin: 0;
     background-color: hsl(212, 45%, 89%);
-    font-family: 'Outfit', sans-serif;
 }
 
 
@@ -35,8 +34,9 @@ main{
 
 .parrafo p{
     text-align: center;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
     color: hsl(218, 44%, 22%);
 }
 
@@ -46,11 +46,13 @@ main{
     width: 250px;
     font-size: 15px;
     text-align: center;
-    font-weight: 300;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
 
 .attribution {
+    font-family: 'Outfit', sans-serif;
     font-size: 11px;
     text-align: center; }
 
